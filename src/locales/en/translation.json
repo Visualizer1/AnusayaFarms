@@ -6,10 +6,10 @@
   "brandTagline": "Purity and Care, Sourced Directly from Farmers",
   "contactUs": "Contact us on WhatsApp:",
   "email": "Email:",
-  "address": "Address: Anusaya Farms, Village XYZ, Maharashtra, India",
+  "address": "Address: Anusaya Farms, At Shivadi, Post Ugaon, Tal Niphad, Dist Nashik Maharashtra, India",
   "productList": [
-    { "id": 1, "name": "Grapes", "description": "Fresh grapes from the farm", "price": "₹100/kg", "image": "Grapes" },
-    { "id": 2, "name": "Raisins", "description": "High-quality raisins", "price": "₹200/kg", "image": "Raisins" },
-    { "id": 3, "name": "Papaya", "description": "Organic papayas", "price": "₹50/kg" , "image": "Papaya"}
+    { "id": 1, "name": "Grapes", "description": "Fresh grapes from the farm", "price": "", "image": "Grapes" },
+    { "id": 2, "name": "Raisins", "description": "High-quality raisins", "price": "", "image": "Raisins" },
+    { "id": 3, "name": "Papaya", "description": "Organic papayas", "price": "" , "image": "Papaya"}
   ]
 }

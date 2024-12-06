@@ -7,8 +7,8 @@ function Footer() {
 
   return (
     <footer id="contact" className="footer">
-      <p>{t('contactUs')} <a href="https://wa.me/919422600668">919422600668</a></p>
-      <p>{t('email')} info@anusaya.com</p>
+      <p>{t('contactUs')} <a href="https://wa.me/919422600268">919422600268</a></p>
+      <p>{t('email')} FarmsAnusaya@gmail.com</p>
       <p>{t('address')}</p>
     </footer>
   );

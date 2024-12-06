@@ -15,7 +15,7 @@
 //           <h2>{product.name}</h2>
 //           <p>{product.description}</p>
 //           <p>{product.price}</p>
-//           <a href="https://wa.me/919422600668" className="whatsapp-link">Order via WhatsApp</a>
+//           <a href="https://wa.me/919422600268" className="whatsapp-link">Order via WhatsApp</a>
 //         </div>
 //       ))}
 //     </div>
@@ -49,7 +49,7 @@ function ProductItem({ product }) {
   };
 
   const message = `I would like to order ${quantity} kg of ${product.name}`;
-  const whatsappLink = `https://wa.me/919422600668?text=${encodeURIComponent(message)}`;
+  const whatsappLink = `https://wa.me/919422600268?text=${encodeURIComponent(message)}`;
 
   return (
     <div className="product-item">
