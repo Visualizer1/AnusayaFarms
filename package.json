@@ -13,10 +13,10 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-    "homepage": "https://github.com/Visualizer1/AnusayaFarms.git",
+    "homepage": "https://Visualizer1.github.io/AnusayaFarms",
   "scripts": {
 "predeploy": "npm run build",
-  "deploy": "node deploy.js",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

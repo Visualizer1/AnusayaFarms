@@ -29,10 +29,10 @@ function ProductItem({ product }) {
 
   const message = `I would like to order ${quantity} kg of ${product.name}`;
   const whatsappLink = `https://wa.me/919422600668`;
-
+console.log('---',process)
   return (
     <div className="product-item">
-      <img src={`/images/${product.image}.jpeg`} alt={product.name} className="product-photo" />
+      <img src={`https://visualizer1.github.io/AnusayaFarms/images/${product.image}.jpeg`} alt={product.name} className="product-photo" />
       <h2>{product.name}</h2>
       <p>{product.description}</p>
       <p>{product.price}</p>
