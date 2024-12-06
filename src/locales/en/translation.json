@@ -1,0 +1,15 @@
+{ "brandName": "Anusaya",  
+  "welcome": "Welcome to Anusaya",
+  "products": "Products",
+  "contact": "Contact",
+  "brandMission": "Our mission is to provide the best quality products to our customers.",
+  "brandTagline": "Purity and Care, Sourced Directly from Farmers",
+  "contactUs": "Contact us on WhatsApp:",
+  "email": "Email:",
+  "address": "Address: Anusaya Farms, Village XYZ, Maharashtra, India",
+  "productList": [
+    { "id": 1, "name": "Grapes", "description": "Fresh grapes from the farm", "price": "₹100/kg", "image": "Grapes" },
+    { "id": 2, "name": "Raisins", "description": "High-quality raisins", "price": "₹200/kg", "image": "Raisins" },
+    { "id": 3, "name": "Papaya", "description": "Organic papayas", "price": "₹50/kg" , "image": "Papaya"}
+  ]
+}

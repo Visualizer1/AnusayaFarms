@@ -1,0 +1,32 @@
+.product-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 30%;
+    text-align: left;
+  }
+  
+  .product-item h2 {
+    margin-top: 0;
+  }
+  
+  .whatsapp-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .banner-photo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .product-photo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
