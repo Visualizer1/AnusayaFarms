@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnusayaFarms/static/css/main.06bad806.css",
-    "main.js": "/AnusayaFarms/static/js/main.23471a30.js",
-    "static/js/453.b203061f.chunk.js": "/AnusayaFarms/static/js/453.b203061f.chunk.js",
-    "index.html": "/AnusayaFarms/index.html",
-    "main.06bad806.css.map": "/AnusayaFarms/static/css/main.06bad806.css.map",
-    "main.23471a30.js.map": "/AnusayaFarms/static/js/main.23471a30.js.map",
-    "453.b203061f.chunk.js.map": "/AnusayaFarms/static/js/453.b203061f.chunk.js.map"
+    "main.css": "https://Visualizer1.github.io/AnusayaFarms/static/css/main.06bad806.css",
+    "main.js": "https://Visualizer1.github.io/AnusayaFarms/static/js/main.6e1aae43.js",
+    "static/js/453.b203061f.chunk.js": "https://Visualizer1.github.io/AnusayaFarms/static/js/453.b203061f.chunk.js",
+    "index.html": "https://Visualizer1.github.io/AnusayaFarms/index.html",
+    "main.06bad806.css.map": "https://Visualizer1.github.io/AnusayaFarms/static/css/main.06bad806.css.map",
+    "main.6e1aae43.js.map": "https://Visualizer1.github.io/AnusayaFarms/static/js/main.6e1aae43.js.map",
+    "453.b203061f.chunk.js.map": "https://Visualizer1.github.io/AnusayaFarms/static/js/453.b203061f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06bad806.css",
-    "static/js/main.23471a30.js"
+    "static/js/main.6e1aae43.js"
   ]
 }
