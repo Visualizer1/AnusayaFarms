@@ -53,7 +53,7 @@ function ProductItem({ product }) {
 
   return (
     <div className="product-item">
-      <img src={`/images/${product.image}.jpeg`} alt={product.name} className="product-photo" />
+      <img src={`https://visualizer1.github.io/AnusayaFarms/images/${product.image}.jpeg`} alt={product.name} className="product-photo" />
       <h2>{product.name}</h2>
       <p>{product.description}</p>
       <p>{product.price}</p>
